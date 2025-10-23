@@ -1,6 +1,6 @@
 import { Grid2, Typography} from "@mui/material";
 import ActivityList from "./ActivityList";
-import ActivityDetails from "../details/ActivityDetails";
+import ActivityDetails from "../details/ActivityDetailPage";
 import ActivityForm from "../form/ActivityForm";
 import { useActivities } from "../../../lib/hooks/useActivities";
 
